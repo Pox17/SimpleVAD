@@ -1,3 +1,6 @@
+# **Semplice algoritmo VAD**
+*Read this in other languages: [English](README.en.md).*
+
 L'algoritmo VAD è stato implementato utilizzando MATLAB.
 È necessario che sia presente il package: "Statistics and Machine Learning Toolbox" all'interno dell'istanza di MATLAB che esegue il run dell'algoritmo
 L'algoritmo cicla N file di nome "inputaudioN" come richiesto,
