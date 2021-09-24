@@ -2,7 +2,7 @@
 
 *Read this in other languages: [English](README.en.md).*
 
-## Semplice algoritmo VAD, implementato tramite l'utilizzo di MATLAB come progetto finale per il corso di Reti di Calcolatori della laurea triennale di Ingegneria informatica dell'Università di Padova.
+### Semplice algoritmo VAD, implementato tramite l'utilizzo di MATLAB come progetto finale per il corso di Reti di Calcolatori della laurea triennale di Ingegneria informatica dell'Università di Padova.
 
 È necessario che sia presente il package: "Statistics and Machine Learning Toolbox" all'interno dell'istanza di MATLAB che esegue il run dell'algoritmo
 L'algoritmo cicla N file di nome "inputaudioN" come richiesto,
